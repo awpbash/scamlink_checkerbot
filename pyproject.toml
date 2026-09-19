@@ -1,2 +1,2 @@
 [tool.vercel]
-entrypoint = "api/telegram.py"
+entrypoint = "api.telegram:handler"
