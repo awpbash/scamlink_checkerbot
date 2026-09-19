@@ -1,5 +1,7 @@
 # Gov.sg Checker Bot
 
+[![Telegram](https://img.shields.io/badge/Telegram-t.me%2Fsggovlink__checker__bot-26A5E4?logo=telegram&logoColor=white)](https://t.me/sggovlink_checker_bot)
+
 A Telegram bot that checks links in forwarded messages against Singapore's
 official government and trusted-partner domains, and flags common scam
 patterns (disguised links, look-alike domains, fake `.gov.sg` text stuffed
